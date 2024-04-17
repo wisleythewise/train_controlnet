@@ -1,0 +1,10 @@
+data/
+ouput/
+cache/
+wandb/
+config.json
+*.bin
+*.pkl
+*.safetensors
+
+
